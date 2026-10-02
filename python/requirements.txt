@@ -1,0 +1,12 @@
+# ShoutDuino EM-FI Python API Requirements
+
+# Serial communication
+pyserial>=3.5
+
+# For development and testing
+pytest>=7.0
+pytest-cov>=4.0
+
+# Optional: For enhanced CLI experience
+readline  # Unix/Linux only
+pyreadline3  # Windows only

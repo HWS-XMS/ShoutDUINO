@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "shoutduino")(type "KiCad")(uri "${KIPRJMOD}/shoutduino.pretty")(options "")(descr "Project-local footprints"))
+)

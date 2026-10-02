@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# macOS
+.DS_Store
+
+# KiCAD
+fp-info-cache
+*-backups/
+*.net
+~*.lck
+\#auto_saved_files#
+_autosave-*
+
+# Editor
+*.swp
+*.swo
+.history/
+
+# Unidentified capture data (large, see 20260109)
+broken/
