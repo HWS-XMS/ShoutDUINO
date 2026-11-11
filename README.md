@@ -1,5 +1,8 @@
 # ShoutDUINO
 
+Attention: I still want to place and route the unity gain buffer on the feedback path.
+That's not yet in the prod. files.
+
 Arduino-based, safe-ish, EMFI tool, at lower cost.
 
 The board charges a capacitor to a programmable high voltage, then discharges it
